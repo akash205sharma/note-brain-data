@@ -1,5 +1,22 @@
 {
   "name": "FileTreeRoot",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "name": "New Project",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Venomous",
+          "type": "file",
+          "url": "/yourLibrary/New Project-Venomous"
+        }
+      ]
+    },
+    {
+      "name": "description",
+      "type": "file",
+      "url": "/yourLibrary/description"
+    }
+  ]
 }
