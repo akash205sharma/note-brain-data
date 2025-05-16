@@ -1,5 +1,32 @@
 {
   "name": "FileTreeRoot",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "name": "New Project",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Venomous",
+          "type": "file",
+          "url": "/yourLibrary/New Project-Venomous"
+        },
+        {
+          "name": "ShopEasy",
+          "type": "file",
+          "url": "/yourLibrary/New Project-ShopEasy"
+        },
+        {
+          "name": "NoteBrain",
+          "type": "file",
+          "url": "/yourLibrary/New Project-NoteBrain"
+        }
+      ]
+    },
+    {
+      "name": "description",
+      "type": "file",
+      "url": "/yourLibrary/description"
+    }
+  ]
 }
