@@ -1,5 +1,11 @@
 {
   "name": "FileTreeRoot",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "name": "MyCode",
+      "type": "file",
+      "url": "/yourLibrary/MyCode"
+    }
+  ]
 }
