@@ -35,6 +35,11 @@
           ]
         }
       ]
+    },
+    {
+      "name": "khj",
+      "type": "file",
+      "url": "/yourLibrary/khj"
     }
   ]
 }
