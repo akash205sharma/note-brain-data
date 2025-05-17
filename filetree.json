@@ -3,20 +3,36 @@
   "type": "folder",
   "children": [
     {
-      "name": "New Project",
+      "name": "a",
+      "type": "file",
+      "url": "/yourLibrary/a"
+    },
+    {
+      "name": "b",
+      "type": "file",
+      "url": "/yourLibrary/b"
+    },
+    {
+      "name": "bcd",
       "type": "folder",
       "children": [
         {
-          "name": "Venomous",
+          "name": "xyz",
+          "type": "folder",
+          "children": [
+            {
+              "name": "dffda",
+              "type": "file",
+              "url": "/yourLibrary/bcd-xyz-dffda"
+            }
+          ]
+        },
+        {
+          "name": "sdx",
           "type": "file",
-          "url": "/yourLibrary/New Project-Venomous"
+          "url": "/yourLibrary/bcd-sdx"
         }
       ]
-    },
-    {
-      "name": "description",
-      "type": "file",
-      "url": "/yourLibrary/description"
     }
   ]
 }
