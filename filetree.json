@@ -1,45 +1,5 @@
 {
   "name": "FileTreeRoot",
   "type": "folder",
-  "children": [
-    {
-      "name": "a",
-      "type": "folder",
-      "children": [
-        {
-          "name": "b",
-          "type": "folder",
-          "children": [
-            {
-              "name": "dd",
-              "type": "file",
-              "url": "/yourLibrary/a-b-dd"
-            }
-          ]
-        },
-        {
-          "name": "c",
-          "type": "folder",
-          "children": [
-            {
-              "name": "dss",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "3",
-                  "type": "file",
-                  "url": "/yourLibrary/a-c-dss-3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "khj",
-      "type": "file",
-      "url": "/yourLibrary/khj"
-    }
-  ]
+  "children": []
 }
