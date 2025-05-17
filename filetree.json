@@ -1,5 +1,28 @@
 {
   "name": "FileTreeRoot",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "name": "1",
+      "type": "folder",
+      "children": [
+        {
+          "name": "2",
+          "type": "folder",
+          "children": [
+            {
+              "name": "4",
+              "type": "file",
+              "url": "/yourLibrary/1-2-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "type": "file",
+      "url": "/yourLibrary/3"
+    }
+  ]
 }
