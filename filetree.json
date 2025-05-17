@@ -10,6 +10,11 @@
           "name": "2",
           "type": "file",
           "url": "/yourLibrary/1-2"
+        },
+        {
+          "name": "4",
+          "type": "file",
+          "url": "/yourLibrary/1-4"
         }
       ]
     }
