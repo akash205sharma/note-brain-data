@@ -24,7 +24,13 @@
             {
               "name": "dss",
               "type": "folder",
-              "children": []
+              "children": [
+                {
+                  "name": "3",
+                  "type": "file",
+                  "url": "/yourLibrary/a-c-dss-3"
+                }
+              ]
             }
           ]
         }
